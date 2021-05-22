@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class Solution {
     public static void main(String[] args) {
-        //напишите тут ваш код
         Scanner s = new Scanner(System.in);
 
         int result = 0;
